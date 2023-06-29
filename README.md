@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Security** & **Ai / ML**
 
-- 👨‍💻 All of my projects are available at [github.com/cifertech](github.com/rad1in)
+- 👨‍💻 All of my projects are available at [github.com/rad1in](github.com/rad1in)
 
-- 📝 I regularly write articles on [http://cifertech.net/](http://rradin.xyz/)
+- 📝 I regularly write articles on [http://rradin.xyz/](http://rradin.xyz/)
 
 - 📫 How to reach me **radin.147.radin@gmail.com**
 
