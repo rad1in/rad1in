@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/rad1in](github.com/rad1in)
 
-- 📝 I regularly write articles on [http://rradin.xyz/](http://rradin.xyz/)
+- 📝 I regularly write articles on [http://rradin.com/](http://rradin.com/)
 
-- 📫 How to reach me **radin.147.radin@gmail.com**
+- 📫 How to reach me **rradin@radin@gmail.com**
 
 - ⚡ Fun fact **Earth is Not Flat**
  
