@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web and Game Server Project<br><br>🌱 I’m currently learning Security<br><br>👨‍💻 All of my projects are available at github.com/rad1in<br><br>📝 I regularly write articles on http://rradin.com/<br><br>📫 How to reach me radin@gmail.com<br><br>⚡ Fun fact Earth is Not Flat
+🔭 I’m currently working on Web and Game Server Project<br><br>🌱 I’m currently learning Security<br><br>👨‍💻 All of my projects are available at github.com/rad1in<br><br>📝 I regularly write articles on http://rradin.com/<br><br>📫 How to reach me radin@rradin.com<br><br>⚡ Fun fact Earth is Not Flat
 
 
 ## 🌐 Socials:
